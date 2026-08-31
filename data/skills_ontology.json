@@ -1,0 +1,379 @@
+{
+  "skills": [
+    {
+      "canonical": "Python",
+      "category": "Programming Languages",
+      "aliases": ["Python", "Python 3", "Python3", "Py"]
+    },
+    {
+      "canonical": "Java",
+      "category": "Programming Languages",
+      "aliases": ["Java", "Core Java", "Java 8", "Java 11", "Java 17"]
+    },
+    {
+      "canonical": "C++",
+      "category": "Programming Languages",
+      "aliases": ["C++", "Cpp", "C plus plus"]
+    },
+    {
+      "canonical": "C#",
+      "category": "Programming Languages",
+      "aliases": ["C#", "CSharp", "C sharp"]
+    },
+    {
+      "canonical": "C",
+      "category": "Programming Languages",
+      "aliases": ["C Language", "ANSI C"]
+    },
+    {
+      "canonical": "JavaScript",
+      "category": "Programming Languages",
+      "aliases": ["JavaScript", "JS", "ES6", "ECMAScript"]
+    },
+    {
+      "canonical": "TypeScript",
+      "category": "Programming Languages",
+      "aliases": ["TypeScript", "TS"]
+    },
+    {
+      "canonical": "Go",
+      "category": "Programming Languages",
+      "aliases": ["Go", "Golang"]
+    },
+    {
+      "canonical": "Rust",
+      "category": "Programming Languages",
+      "aliases": ["Rust", "Rustlang"]
+    },
+    {
+      "canonical": "Ruby",
+      "category": "Programming Languages",
+      "aliases": ["Ruby", "Ruby on Rails", "Rails", "RoR"]
+    },
+    {
+      "canonical": "PHP",
+      "category": "Programming Languages",
+      "aliases": ["PHP", "PHP7", "PHP8"]
+    },
+    {
+      "canonical": "Kotlin",
+      "category": "Programming Languages",
+      "aliases": ["Kotlin"]
+    },
+    {
+      "canonical": "Swift",
+      "category": "Programming Languages",
+      "aliases": ["Swift", "SwiftUI"]
+    },
+    {
+      "canonical": "Scala",
+      "category": "Programming Languages",
+      "aliases": ["Scala"]
+    },
+    {
+      "canonical": "R",
+      "category": "Programming Languages",
+      "aliases": ["R Language", "R-Project"]
+    },
+    {
+      "canonical": "SQL",
+      "category": "Databases",
+      "aliases": ["SQL", "Structured Query Language", "T-SQL", "PL/SQL"]
+    },
+    {
+      "canonical": "HTML5",
+      "category": "Web & Frontend",
+      "aliases": ["HTML", "HTML5"]
+    },
+    {
+      "canonical": "CSS3",
+      "category": "Web & Frontend",
+      "aliases": ["CSS", "CSS3", "Sass", "SCSS", "LESS"]
+    },
+    {
+      "canonical": "React",
+      "category": "Web & Frontend",
+      "aliases": ["React", "React.js", "ReactJS", "React Native"]
+    },
+    {
+      "canonical": "Angular",
+      "category": "Web & Frontend",
+      "aliases": ["Angular", "AngularJS", "Angular 2+"]
+    },
+    {
+      "canonical": "Vue.js",
+      "category": "Web & Frontend",
+      "aliases": ["Vue", "Vue.js", "VueJS", "Vue 3"]
+    },
+    {
+      "canonical": "Next.js",
+      "category": "Web & Frontend",
+      "aliases": ["Next.js", "NextJS", "Next"]
+    },
+    {
+      "canonical": "Node.js",
+      "category": "Backend Frameworks",
+      "aliases": ["Node", "Node.js", "NodeJS"]
+    },
+    {
+      "canonical": "Express.js",
+      "category": "Backend Frameworks",
+      "aliases": ["Express", "Express.js", "ExpressJS"]
+    },
+    {
+      "canonical": "Django",
+      "category": "Backend Frameworks",
+      "aliases": ["Django", "Django REST Framework", "DRF"]
+    },
+    {
+      "canonical": "Flask",
+      "category": "Backend Frameworks",
+      "aliases": ["Flask"]
+    },
+    {
+      "canonical": "FastAPI",
+      "category": "Backend Frameworks",
+      "aliases": ["FastAPI", "Fast API"]
+    },
+    {
+      "canonical": "Spring Boot",
+      "category": "Backend Frameworks",
+      "aliases": ["Spring", "Spring Boot", "Spring Framework", "Spring MVC"]
+    },
+    {
+      "canonical": ".NET",
+      "category": "Backend Frameworks",
+      "aliases": [".NET", ".NET Core", "ASP.NET", "ASP.NET Core", "dotNet"]
+    },
+    {
+      "canonical": "GraphQL",
+      "category": "Backend Frameworks",
+      "aliases": ["GraphQL", "Apollo GraphQL"]
+    },
+    {
+      "canonical": "REST API",
+      "category": "Backend Frameworks",
+      "aliases": ["REST", "RESTful API", "REST APIs", "RESTful Services"]
+    },
+    {
+      "canonical": "PostgreSQL",
+      "category": "Databases",
+      "aliases": ["PostgreSQL", "Postgres", "psql"]
+    },
+    {
+      "canonical": "MySQL",
+      "category": "Databases",
+      "aliases": ["MySQL"]
+    },
+    {
+      "canonical": "MongoDB",
+      "category": "Databases",
+      "aliases": ["MongoDB", "Mongo"]
+    },
+    {
+      "canonical": "Redis",
+      "category": "Databases",
+      "aliases": ["Redis"]
+    },
+    {
+      "canonical": "Oracle Database",
+      "category": "Databases",
+      "aliases": ["Oracle", "Oracle DB", "Oracle Database"]
+    },
+    {
+      "canonical": "Microsoft SQL Server",
+      "category": "Databases",
+      "aliases": ["MSSQL", "SQL Server", "Microsoft SQL Server"]
+    },
+    {
+      "canonical": "Elasticsearch",
+      "category": "Databases",
+      "aliases": ["Elasticsearch", "ELK", "ELK Stack"]
+    },
+    {
+      "canonical": "Cassandra",
+      "category": "Databases",
+      "aliases": ["Cassandra", "Apache Cassandra"]
+    },
+    {
+      "canonical": "DynamoDB",
+      "category": "Databases",
+      "aliases": ["DynamoDB", "AWS DynamoDB"]
+    },
+    {
+      "canonical": "Amazon Web Services (AWS)",
+      "category": "Cloud & DevOps",
+      "aliases": ["AWS", "Amazon Web Services", "EC2", "S3", "Lambda", "CloudFormation"]
+    },
+    {
+      "canonical": "Microsoft Azure",
+      "category": "Cloud & DevOps",
+      "aliases": ["Azure", "Microsoft Azure", "Azure DevOps"]
+    },
+    {
+      "canonical": "Google Cloud Platform (GCP)",
+      "category": "Cloud & DevOps",
+      "aliases": ["GCP", "Google Cloud", "Google Cloud Platform", "BigQuery", "GKE"]
+    },
+    {
+      "canonical": "Docker",
+      "category": "Cloud & DevOps",
+      "aliases": ["Docker", "Docker Compose", "Containerization"]
+    },
+    {
+      "canonical": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "aliases": ["Kubernetes", "K8s", "Helm"]
+    },
+    {
+      "canonical": "Terraform",
+      "category": "Cloud & DevOps",
+      "aliases": ["Terraform", "IaC", "Infrastructure as Code"]
+    },
+    {
+      "canonical": "Ansible",
+      "category": "Cloud & DevOps",
+      "aliases": ["Ansible"]
+    },
+    {
+      "canonical": "CI/CD",
+      "category": "Cloud & DevOps",
+      "aliases": ["CI/CD", "Continuous Integration", "Continuous Deployment", "Jenkins", "GitHub Actions", "GitLab CI"]
+    },
+    {
+      "canonical": "Linux",
+      "category": "Cloud & DevOps",
+      "aliases": ["Linux", "Unix", "Ubuntu", "CentOS", "RedHat", "Bash", "Shell Scripting"]
+    },
+    {
+      "canonical": "Git",
+      "category": "Tools & Version Control",
+      "aliases": ["Git", "GitHub", "GitLab", "Bitbucket", "Version Control"]
+    },
+    {
+      "canonical": "Machine Learning",
+      "category": "Data Science & AI",
+      "aliases": ["Machine Learning", "ML", "Pattern Recognition", "Supervised Learning", "Unsupervised Learning"]
+    },
+    {
+      "canonical": "Deep Learning",
+      "category": "Data Science & AI",
+      "aliases": ["Deep Learning", "DL", "Neural Networks", "CNN", "RNN", "LSTM", "Transformers"]
+    },
+    {
+      "canonical": "Natural Language Processing (NLP)",
+      "category": "Data Science & AI",
+      "aliases": ["NLP", "Natural Language Processing", "spaCy", "NLTK", "BERT", "LLM", "Large Language Models"]
+    },
+    {
+      "canonical": "Computer Vision",
+      "category": "Data Science & AI",
+      "aliases": ["Computer Vision", "CV", "OpenCV", "Object Detection", "Image Processing"]
+    },
+    {
+      "canonical": "TensorFlow",
+      "category": "Data Science & AI",
+      "aliases": ["TensorFlow", "TF", "Keras"]
+    },
+    {
+      "canonical": "PyTorch",
+      "category": "Data Science & AI",
+      "aliases": ["PyTorch", "Torch"]
+    },
+    {
+      "canonical": "Scikit-Learn",
+      "category": "Data Science & AI",
+      "aliases": ["Scikit-Learn", "sklearn", "Scikit Learn"]
+    },
+    {
+      "canonical": "Pandas",
+      "category": "Data Science & AI",
+      "aliases": ["Pandas"]
+    },
+    {
+      "canonical": "NumPy",
+      "category": "Data Science & AI",
+      "aliases": ["NumPy", "Numpy"]
+    },
+    {
+      "canonical": "Apache Spark",
+      "category": "Big Data",
+      "aliases": ["Spark", "Apache Spark", "PySpark"]
+    },
+    {
+      "canonical": "Apache Kafka",
+      "category": "Big Data",
+      "aliases": ["Kafka", "Apache Kafka"]
+    },
+    {
+      "canonical": "Hadoop",
+      "category": "Big Data",
+      "aliases": ["Hadoop", "HDFS", "MapReduce"]
+    },
+    {
+      "canonical": "Tableau",
+      "category": "Data Visualization & BI",
+      "aliases": ["Tableau"]
+    },
+    {
+      "canonical": "Power BI",
+      "category": "Data Visualization & BI",
+      "aliases": ["Power BI", "PowerBI"]
+    },
+    {
+      "canonical": "Agile / Scrum",
+      "category": "Methodologies",
+      "aliases": ["Agile", "Scrum", "Kanban", "Sprint Planning", "Jira"]
+    },
+    {
+      "canonical": "Microservices",
+      "category": "Architecture",
+      "aliases": ["Microservices", "Microservice Architecture", "Distributed Systems"]
+    },
+    {
+      "canonical": "Unit Testing",
+      "category": "Testing & QA",
+      "aliases": ["Unit Testing", "PyTest", "JUnit", "Jest", "Mocha", "Selenium", "TDD", "Test-Driven Development"]
+    },
+    {
+      "canonical": "Investigation Skills",
+      "category": "Security & Law Enforcement",
+      "aliases": ["Investigation skills", "Investigation", "Investigative Analysis", "Criminal Investigation"]
+    },
+    {
+      "canonical": "Safety Compliance",
+      "category": "Security & Operations",
+      "aliases": ["Safety compliance", "OSHA", "Safety Regulations", "Workplace Safety"]
+    },
+    {
+      "canonical": "Criminal Justice",
+      "category": "Security & Law Enforcement",
+      "aliases": ["Criminal justice knowledge", "Criminal Justice", "Criminal Law", "Law Enforcement"]
+    },
+    {
+      "canonical": "Restraining Devices",
+      "category": "Security & Defense",
+      "aliases": ["Restraining devices", "Handcuffs", "Physical Restraint", "Crowd Control"]
+    },
+    {
+      "canonical": "Physical Combat & Martial Arts",
+      "category": "Security & Defense",
+      "aliases": ["Martial arts/Physical combat training", "Physical Combat", "Martial Arts", "Self Defense", "Armed Defense", "Defensive Tactics"]
+    },
+    {
+      "canonical": "Surveillance & CCTV",
+      "category": "Security & Operations",
+      "aliases": ["Surveillance", "CCTV", "Monitoring", "Security Cameras", "Access Control"]
+    },
+    {
+      "canonical": "Emergency Response",
+      "category": "Security & Operations",
+      "aliases": ["Emergency Response", "First Aid", "CPR", "Crisis Intervention", "Disaster Management"]
+    },
+    {
+      "canonical": "Report Writing",
+      "category": "Operations & Administration",
+      "aliases": ["Report Writing", "Incident Reporting", "Documentation", "Record Keeping"]
+    }
+  ]
+}
